@@ -7,7 +7,7 @@ import UserDashboard from "./pages/UserDashboard";
 import EditorDashboard from "./pages/Editordashboard";
 import AdminDashboard from "./pages/Admindashboard";
 import ContentEditor from "./pages/ContentEditor";
-import Articles from './pages/Articlelist'
+import Arti
 import MediaPage from "./pages/Media";
 import ProfilePage from "./pages/ProfilePage";
 
