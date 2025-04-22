@@ -85,6 +85,7 @@ function App() {
 
             <Route path="/user-dashboard" element={<Layout><UserDashboard /></Layout>} />
             <Route path="/ContentEditor" element={<Layout><ContentEditor /></Layout>} />
+           
             <Route path="/media" element={<Layout><MediaPage /></Layout>} />
             <Route path="/profile" element={<Layout><ProfilePage /></Layout>} />
             <Route path="*" element={<Navigate to="/" replace />} />
