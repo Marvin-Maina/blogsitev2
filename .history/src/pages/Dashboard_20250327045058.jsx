@@ -1,0 +1,17 @@
+import Bloglist from "../components/BlogList";
+
+
+const Dashboard = () => {
+    return (
+       
+           
+       
+        <div className="flex-1 p-6 ml-20 bg-gray-900 ">
+            <h1 className="text-3xl font-bold mb-4 text-gray-700">Dashboard</h1>
+            <Bloglist />
+        </div>
+    
+
+    )
+}
+export default Dashboard
